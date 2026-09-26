@@ -260,4 +260,4 @@ This repository serves as the official landing page for pCloud. The software is 
 **Get the most recent version of pCloud today!**
 
 ---
-**Last updated:** 2026-09-26 14:46:41 UTC
+**Last updated:** 2026-09-26 18:06:25 UTC
